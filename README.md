@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I'm Navin 👋
+
+I'm a Computer Science Engineering student with a strong interest in frontend development and data visualization.
+
+### 👨‍💻 What I'm focusing on
+- Building interactive web applications
+- Learning Data Structures & Algorithms
+- Improving problem-solving skills
+
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React (if used)
+- Git & GitHub
+
+### 📌 Current Goal
+Become a strong software engineer by building real-world projects and mastering core CS fundamentals.
+
 
 <!--
 **navin18-cmd/navin18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
