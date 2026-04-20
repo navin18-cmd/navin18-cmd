@@ -1,63 +1,70 @@
-## Hi, I’m Navin 👋
+# Hi, I’m Navin 👋
 
-I’m a Computer Science Engineering student focused on becoming a strong software engineer through real-world projects, solid problem-solving, and consistent execution.
+I’m a Computer Science Engineering student focused on building real-world software projects and strengthening core problem-solving skills.
 
-I’m currently building frontend-heavy, data-driven web applications and simultaneously strengthening my core CS fundamentals and DSA for product-based company roles.
-
----
-
-### 🎯 Current Focus
-- Frontend development with a strong emphasis on clean UI and data visualization
-- Solving Data Structures & Algorithms using Java
-- Writing readable, maintainable code and improving system-level thinking
+I have hands-on experience developing web applications, data visualization tools, and AI-assisted systems, with a focus on practical implementation and clean code.
 
 ---
 
-### 🛠 Tech Stack
-- **Primary:** JavaScript (Frontend)
-- **Familiar with:** Python, Java
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
-
-> I only list technologies I can explain and defend technically.
+## 🎯 Current Focus
+- Building frontend-heavy web applications with data visualization
+- Strengthening Data Structures & Algorithms using Java
+- Improving backend integration and system-level understanding
+- Writing clean, maintainable, and structured code
 
 ---
 
-### 📌 Projects
-- **FloatChart** – Interactive web application to visualize global ARGO ocean float data  
-  *Hackathon project | Frontend responsibility*  
-  Built interactive UI components, charts, and data views to help users explore large-scale scientific datasets.
-
-(More projects will be added as I build and iterate.)
-
----
-
-### 📈 What I’m Working Towards
-- Strong DSA foundation suitable for high-level technical interviews
-- Building production-quality projects instead of academic demos
-- Preparing for internships and full-time roles at top product-based companies
+## 🛠 Tech Stack
+**Languages:** Java, JavaScript, Python, PHP, Dart (basic)  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP (basic), Python (logic-level)  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, Android Studio  
 
 ---
 
-### 📬 Let’s Connect
+## 📌 Projects
+
+### 🔹 AEGIS Scam Firewall
+- Built a system to detect potential scam patterns from user inputs  
+- Focused on logic design, integration, and debugging  
+- Explored basic security and fraud detection concepts  
+
+---
+
+### 🔹 FloatChart (ARGO Data Visualization)
+- Developed an interactive web app to visualize oceanographic data  
+- Built UI components and charts for large datasets  
+- Focused on clarity, usability, and data representation  
+
+---
+
+### 🔹 AI Citizen Welfare Assistant
+- Developed a basic AI-based assistant for handling user queries  
+- Worked on input processing and response logic  
+- Built using TypeScript  
+
+---
+
+### 🔹 Web Development Projects
+- Built dynamic websites using HTML, CSS, PHP, and MySQL  
+- Implemented CRUD operations and database connectivity  
+- Practiced full-stack development fundamentals  
+
+---
+
+### 🔹 Java DSA Practice
+- Practicing structured problem solving using Java  
+- Strengthening logic building and algorithmic thinking  
+
+---
+
+## 📈 What I’m Working Towards
+- Strong DSA foundation for technical interviews  
+- Building production-level, scalable projects  
+- Securing internships to gain real-world experience  
+
+---
+
+## 📬 Connect With Me
 - GitHub: https://github.com/navin18-cmd
-- 
----
-
-> Consistency > hype.  
-> Depth > buzzwords.
-
-<!--
-**navin18-cmd/navin18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
